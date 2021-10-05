@@ -1,5 +1,5 @@
----
-# 🎵Muzox](https://discord.com/api/oauth2/authorize?client_id=845153824742440991&permissions=139623526209&redirect_uri=https%3A%2F%2Fdiscord.gg%2F5x2BMD6PUR&response_type=code&scope=bot%20guilds.join%20applications.commands)
+
+# 🎵Muzox
 ![Muzox](https://i.ibb.co/2sc9SR3/Banner.jpg)
 
 ## ❓What is Muzox ?
@@ -9,7 +9,7 @@
 ```css
 - > 24/7 in Voice Channel
 - > Rich Music Quality
-- > Autoplay Music
+- > Auto Play Music
 - > Cool Progress Bar
 - > More Features Soon
 ```
