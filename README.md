@@ -32,7 +32,7 @@
 ## 🔗Invite 
 
 
-- [ Invite Muzox To Your Server!](https://discord.gg/3QY683jpDA)
+- [Join Support Server To Invite Me](https://discord.gg/3QY683jpDA)
 
 
 
